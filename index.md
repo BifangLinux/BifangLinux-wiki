@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to BifangLinux wiki 
 
 You can use the [editor on GitHub](https://github.com/BifangLinux/BifangLinux-wiki/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
